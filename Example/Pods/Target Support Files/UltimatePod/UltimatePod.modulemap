@@ -1,0 +1,6 @@
+framework module UltimatePod {
+  umbrella header "UltimatePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

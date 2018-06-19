@@ -1,0 +1,22 @@
+{
+  "name": "UltimatePod",
+  "version": "0.1.0",
+  "summary": "A short description of UltimatePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bartekzabicki/UltimatePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bartekzabicki": "bartekzabicki@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/bartekzabicki/UltimatePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UltimatePod/Classes/**/*"
+}

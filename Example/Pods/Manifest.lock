@@ -1,0 +1,16 @@
+PODS:
+  - UltimatePod (0.1.0)
+
+DEPENDENCIES:
+  - UltimatePod (from `../`)
+
+EXTERNAL SOURCES:
+  UltimatePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UltimatePod: 560364325f6121c89d598f81f27304ad3032471e
+
+PODFILE CHECKSUM: 9c2416b3bde8534d9a3bf3d34d696af8dd316f3e
+
+COCOAPODS: 1.5.0
